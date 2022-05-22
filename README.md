@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Bedrock is here
+- 🔭 Worked at Xi'an NovaStar
+- 🌱 Learning Android's multimedia
+- 📫 How to reach me: bedrock_jie@qq.com
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BedRockJie&hide=c&show_icons=true&theme=vue-dark"/>
 
 <!--
 **BedRockJie/BedRockJie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
