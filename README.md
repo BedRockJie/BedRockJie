@@ -4,7 +4,7 @@
 ### Hi there 👋 Bedrock is here
 - 🔭 Worked at Xi'an NovaStar
 - 🌱 Learning Android's multimedia
-- 📫 How to reach me: bedrock_jie@qq.com
+- 📫 How to reach me: bedrock_jie@foxmail.com
 - 🌏 Available languages for me `中文, English`
 <br/>
 <br/>
