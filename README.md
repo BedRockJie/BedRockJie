@@ -2,8 +2,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BedRockJie&hide=c&show_icons=true&theme=vue-dark"/>
 
 ### Hi there 👋 Bedrock is here
-- 🔭 I’m currently working on Xi'an NovaStar
-- 🌱 I’m currently learning Muiltcast Video and ST2110
 - 📫 How to reach me: bedrock_jie@foxmail.com
 - 🌏 Available languages for me `中文, English`
 <br/>
