@@ -4,20 +4,14 @@
 ### Hi there 👋 Bedrock is here
 - 📫 How to reach me: bedrock_jie@foxmail.com
 - 🌏 Available languages for me `中文, English`
-<br/>
-<br/>
-<br/>
-<br/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=BedRockJie&show_icons=true&theme=vue-dark"/>
 
 
-<br>
-
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contributions" width="700" />
+</p>
 
 <!--
 **BedRockJie/BedRockJie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
