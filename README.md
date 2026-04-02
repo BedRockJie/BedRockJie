@@ -1,6 +1,4 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BedRockJie&hide=c&show_icons=true&theme=vue-dark"/>
-
 ### Hi there 👋 Bedrock is here
 - 📫 How to reach me: bedrock_jie@foxmail.com
 - 🌏 Available languages for me `中文, English`
